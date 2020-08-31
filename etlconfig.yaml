@@ -1,0 +1,3 @@
+ source: "futurex_course"
+ target: "futurex_course"
+ sql: "select * from futurex_course"
